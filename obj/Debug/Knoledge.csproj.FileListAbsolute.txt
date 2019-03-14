@@ -1,0 +1,11 @@
+G:\Projects\knoledge\Knoledge\Knoledge\bin\Debug\Knoledge.exe.config
+G:\Projects\knoledge\Knoledge\Knoledge\bin\Debug\Knoledge.exe
+G:\Projects\knoledge\Knoledge\Knoledge\bin\Debug\Knoledge.pdb
+G:\Projects\knoledge\Knoledge\Knoledge\bin\Debug\Newtonsoft.Json.dll
+G:\Projects\knoledge\Knoledge\Knoledge\bin\Debug\Newtonsoft.Json.pdb
+G:\Projects\knoledge\Knoledge\Knoledge\bin\Debug\Newtonsoft.Json.xml
+G:\Projects\knoledge\Knoledge\Knoledge\obj\Debug\Knoledge.csprojResolveAssemblyReference.cache
+G:\Projects\knoledge\Knoledge\Knoledge\obj\Debug\Knoledge.csproj.CoreCompileInputs.cache
+G:\Projects\knoledge\Knoledge\Knoledge\obj\Debug\Knoledge.csproj.CopyComplete
+G:\Projects\knoledge\Knoledge\Knoledge\obj\Debug\Knoledge.exe
+G:\Projects\knoledge\Knoledge\Knoledge\obj\Debug\Knoledge.pdb
